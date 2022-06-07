@@ -1,0 +1,82 @@
+[
+    {
+        "name": "London",
+        "month": "Jan.",
+        "dats": 18.9
+    },
+    {
+        "name": "London",
+        "month": "Feb.",
+        "dats": 28.8
+    },
+    {
+        "name": "London",
+        "month": "Mar.",
+        "dats": 39.3
+    },
+    {
+        "name": "London",
+        "month": "Apr.",
+        "dats": 81.4
+    },
+    {
+        "name": "London",
+        "month": "May",
+        "dats": 47
+    },
+    {
+        "name": "London",
+        "month": "Jun.",
+        "dats": 20.3
+    },
+    {
+        "name": "London",
+        "month": "Jul.",
+        "dats": 24
+    },
+    {
+        "name": "London",
+        "month": "Aug.",
+        "dats": 35.6
+    },
+    {
+        "name": "Berlin",
+        "month": "Jan.",
+        "dats": 12.4
+    },
+    {
+        "name": "Berlin",
+        "month": "Feb.",
+        "dats": 23.2
+    },
+    {
+        "name": "Berlin",
+        "month": "Mar.",
+        "dats": 34.5
+    },
+    {
+        "name": "Berlin",
+        "month": "Apr.",
+        "dats": 99.7
+    },
+    {
+        "name": "Berlin",
+        "month": "May",
+        "dats": 52.6
+    },
+    {
+        "name": "Berlin",
+        "month": "Jun.",
+        "dats": 35.5
+    },
+    {
+        "name": "Berlin",
+        "month": "Jul.",
+        "dats": 37.4
+    },
+    {
+        "name": "Berlin",
+        "month": "Aug.",
+        "dats": 42.4
+    }
+]
