@@ -1,0 +1,22 @@
+[
+   {
+      "_id":"62a94962a200398ed7c9da0b",
+      "image_ads":"https://project-app-shop.s3.amazonaws.com/image-1655261535348.jpeg",
+      "title_ads":"Daras",
+      "description_ads":"Chất lượng, uy tín, nhanh chóng. Chỉ cần 3 bước đơn giản để có phong cách thời thượng. Hãy tham gia ngay với Fashion!",
+      "title_data":"nữ",
+      "createdAt":"2022-06-15T02:52:18.798Z",
+      "updatedAt":"2022-06-15T02:52:18.798Z",
+      "__v":0
+   },
+   {
+      "_id":"62a94990a200398ed7c9da0f",
+      "image_ads":"https://project-app-shop.s3.amazonaws.com/image-1655261582492.jpeg",
+      "title_ads":"Daras",
+      "description_ads":"Chất lượng, uy tín, nhanh chóng. Chỉ cần 3 bước đơn giản để có phong cách thời thượng. Hãy tham gia ngay với Fashion!",
+      "title_data":"nữ",
+      "createdAt":"2022-06-15T02:53:04.178Z",
+      "updatedAt":"2022-06-15T02:53:04.178Z",
+      "__v":0
+   }
+]

@@ -1,0 +1,86 @@
+[
+   {
+      "_id":"62a207da49cf35c5e0f69a68",
+      "title_data":"nam",
+      "image_ads":"https://project-app-shop.s3.amazonaws.com/image-1654786008631.jpeg",
+      "createdAt":"2022-06-09T14:46:50.404Z",
+      "updatedAt":"2022-06-09T14:46:50.404Z",
+      "__v":0
+   },
+   {
+      "_id":"62a20b9c49cf35c5e0f69a6d",
+      "title_data":"nu",
+      "image_ads":"https://project-app-shop.s3.amazonaws.com/image-1654786970300.jpeg",
+      "createdAt":"2022-06-09T15:02:52.127Z",
+      "updatedAt":"2022-06-09T15:02:52.127Z",
+      "__v":0
+   },
+   {
+      "_id":"62a20ba349cf35c5e0f69a6f",
+      "title_data":"nu",
+      "image_ads":"https://project-app-shop.s3.amazonaws.com/image-1654786978064.jpeg",
+      "createdAt":"2022-06-09T15:02:59.795Z",
+      "updatedAt":"2022-06-09T15:02:59.795Z",
+      "__v":0
+   },
+   {
+      "_id":"62a94654a200398ed7c9d9fd",
+      "image_ads":"https://project-app-shop.s3.amazonaws.com/image-1655260754413.jpeg",
+      "title_ads":"Nam",
+      "description_ads":"Chất lượng, uy tín, nhanh chóng. Chỉ cần 3 bước đơn giản để có phong cách thời thượng. Hãy tham gia ngay với Fashion!",
+      "title_data":"DAARA",
+      "createdAt":"2022-06-15T02:39:16.809Z",
+      "updatedAt":"2022-06-15T02:39:16.809Z",
+      "__v":0
+   },
+   {
+      "_id":"62a9485da200398ed7c9da07",
+      "image_ads":"https://project-app-shop.s3.amazonaws.com/image-1655261276176.jpeg",
+      "title_ads":"Daras",
+      "description_ads":"Chất lượng, uy tín, nhanh chóng. Chỉ cần 3 bước đơn giản để có phong cách thời thượng. Hãy tham gia ngay với Fashion!",
+      "title_data":"first",
+      "createdAt":"2022-06-15T02:47:57.983Z",
+      "updatedAt":"2022-06-15T02:47:57.983Z",
+      "__v":0
+   },
+   {
+      "_id":"62a9494aa200398ed7c9da09",
+      "image_ads":"https://project-app-shop.s3.amazonaws.com/image-1655261513002.jpeg",
+      "title_ads":"Daras",
+      "description_ads":"Chất lượng, uy tín, nhanh chóng. Chỉ cần 3 bước đơn giản để có phong cách thời thượng. Hãy tham gia ngay với Fashion!",
+      "title_data":"shop",
+      "createdAt":"2022-06-15T02:51:54.917Z",
+      "updatedAt":"2022-06-15T02:51:54.917Z",
+      "__v":0
+   },
+   {
+      "_id":"62a94962a200398ed7c9da0b",
+      "image_ads":"https://project-app-shop.s3.amazonaws.com/image-1655261535348.jpeg",
+      "title_ads":"Daras",
+      "description_ads":"Chất lượng, uy tín, nhanh chóng. Chỉ cần 3 bước đơn giản để có phong cách thời thượng. Hãy tham gia ngay với Fashion!",
+      "title_data":"nữ",
+      "createdAt":"2022-06-15T02:52:18.798Z",
+      "updatedAt":"2022-06-15T02:52:18.798Z",
+      "__v":0
+   },
+   {
+      "_id":"62a94976a200398ed7c9da0d",
+      "image_ads":"https://project-app-shop.s3.amazonaws.com/image-1655261551409.jpeg",
+      "title_ads":"Daras",
+      "description_ads":"Chất lượng, uy tín, nhanh chóng. Chỉ cần 3 bước đơn giản để có phong cách thời thượng. Hãy tham gia ngay với Fashion!",
+      "title_data":"nam",
+      "createdAt":"2022-06-15T02:52:38.945Z",
+      "updatedAt":"2022-06-15T02:52:38.945Z",
+      "__v":0
+   },
+   {
+      "_id":"62a94990a200398ed7c9da0f",
+      "image_ads":"https://project-app-shop.s3.amazonaws.com/image-1655261582492.jpeg",
+      "title_ads":"Daras",
+      "description_ads":"Chất lượng, uy tín, nhanh chóng. Chỉ cần 3 bước đơn giản để có phong cách thời thượng. Hãy tham gia ngay với Fashion!",
+      "title_data":"nữ",
+      "createdAt":"2022-06-15T02:53:04.178Z",
+      "updatedAt":"2022-06-15T02:53:04.178Z",
+      "__v":0
+   }
+]
